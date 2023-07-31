@@ -1,7 +1,7 @@
 name: edu_button
-description: A new Flutter package project.
+description: This is a very beautiful button wiget for your project. From Uzbekistan.
 version: 0.0.1
-homepage:
+homepage: "https://github.com/RahmatullohXolmatov/edu_button.git"
 
 environment:
   sdk: '>=3.0.6 <4.0.0'
